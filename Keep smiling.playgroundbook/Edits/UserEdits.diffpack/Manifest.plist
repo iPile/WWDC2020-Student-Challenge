@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.blank</string>
+	<key>BaseContentVersion</key>
+	<string>1.0</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Base.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/BikeRide.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Design.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Drawing.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/DrawingControls.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/DrawingPad.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Intro.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Kitchen.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/KitchenObjects.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/LivingRoom.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/Models.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
+		<string>Removed</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/You.swift</key>
+		<string>Added</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>
